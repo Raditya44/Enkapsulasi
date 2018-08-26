@@ -31,3 +31,7 @@ Bola
 
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/TP2.1.PNG)
 ![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/TP2.2.PNG)
+
+Biodata Keluarga Raditya
+
+![alt text](https://github.com/Raditya44/Enkapsulasi/blob/master/Raditya.PNG)
